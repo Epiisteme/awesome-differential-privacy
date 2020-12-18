@@ -8,6 +8,12 @@ Awesome Artefacts About Differential Privacy
 - https://builtin.com/data-science/differential-privacy
 - https://towardsdatascience.com/understanding-differential-privacy-85ce191e198a?gi=4fc58390aed9
 
+## Enterprise Perspectives
+- https://www.microsoft.com/en-us/research/publication/differential-privacy/
+
 ## UseCases
 - https://blog.openmined.org/use-cases-of-differential-privacy/
+
+## Tools 
+- https://privacytools.seas.harvard.edu/differential-privacy
 
