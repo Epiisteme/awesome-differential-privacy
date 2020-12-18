@@ -7,3 +7,6 @@ Awesome Artefacts About Differential Privacy
 ## DataScience Dimensions
 - https://towardsdatascience.com/understanding-differential-privacy-85ce191e198a?gi=4fc58390aed9
 
+## UseCases
+- https://blog.openmined.org/use-cases-of-differential-privacy/
+
