@@ -5,6 +5,9 @@ Awesome Artefacts About Differential Privacy
 - https://robertovitillo.com/differential-privacy-for-dummies/
 - https://win-vector.com/2015/10/02/a-simpler-explanation-of-differential-privacy/
 
+## Linkage Attacks
+- https://www.marklogic.com/blog/protecting-linkage-attacks-use-anonymous-data/
+
 ## Cryptographic Constructs
 - Verifiable Differential Privacy >> https://www.cis.upenn.edu/~ahae/papers/verdp-eurosys2015.pdf
 
