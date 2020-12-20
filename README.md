@@ -9,6 +9,7 @@ Awesome Artefacts About Differential Privacy
 - https://slideplayer.com/slide/12941172/
 - https://www.cs.cmu.edu/~avrim/Randalgs11/lectures/lect0420.pdf
 - https://www.lrdc.pitt.edu/schunn/cdi2009/presentations/Dwork.pdf
+- https://www2.slideshare.net/eumjangi/differential-privacy-79655132
 
 ## Data Mining and Differential Privacy
 - https://www2.slideshare.net/ssuser78eda8/data-mining-with-differential-privacy
