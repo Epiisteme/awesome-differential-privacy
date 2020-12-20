@@ -3,6 +3,7 @@ Awesome Artefacts About Differential Privacy
 
 ## Introduction
 - https://robertovitillo.com/differential-privacy-for-dummies/
+- https://win-vector.com/2015/10/02/a-simpler-explanation-of-differential-privacy/
 
 ## Cryptographic Constructs
 - Verifiable Differential Privacy >> https://www.cis.upenn.edu/~ahae/papers/verdp-eurosys2015.pdf
