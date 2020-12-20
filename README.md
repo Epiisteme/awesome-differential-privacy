@@ -13,6 +13,7 @@ Awesome Artefacts About Differential Privacy
 
 ## Data Mining and Differential Privacy
 - https://www2.slideshare.net/ssuser78eda8/data-mining-with-differential-privacy
+- https://www2.slideshare.net/GraceHuiYang/differential-privacy-for-information-retrieval
 
 ## Linkage Attacks
 - https://www.marklogic.com/blog/protecting-linkage-attacks-use-anonymous-data/
