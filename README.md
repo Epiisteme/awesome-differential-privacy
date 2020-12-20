@@ -5,6 +5,14 @@ Awesome Artefacts About Differential Privacy
 - https://robertovitillo.com/differential-privacy-for-dummies/
 - https://win-vector.com/2015/10/02/a-simpler-explanation-of-differential-privacy/
 
+## Lectures
+- https://slideplayer.com/slide/12941172/
+- https://www.cs.cmu.edu/~avrim/Randalgs11/lectures/lect0420.pdf
+- https://www.lrdc.pitt.edu/schunn/cdi2009/presentations/Dwork.pdf
+
+## Data Mining and Differential Privacy
+- https://www2.slideshare.net/ssuser78eda8/data-mining-with-differential-privacy
+
 ## Linkage Attacks
 - https://www.marklogic.com/blog/protecting-linkage-attacks-use-anonymous-data/
 
