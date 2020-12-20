@@ -4,6 +4,7 @@ Awesome Artefacts About Differential Privacy
 ## Introduction
 - https://robertovitillo.com/differential-privacy-for-dummies/
 - https://win-vector.com/2015/10/02/a-simpler-explanation-of-differential-privacy/
+- https://medium.com/georgian-impact-blog/a-brief-introduction-to-differential-privacy-eacf8722283b
 
 ## Lectures
 - https://slideplayer.com/slide/12941172/
