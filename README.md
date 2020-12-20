@@ -13,6 +13,7 @@ Awesome Artefacts About Differential Privacy
 
 ## UseCases
 - https://blog.openmined.org/use-cases-of-differential-privacy/
+- https://medium.com/bluecore-engineering/differential-privacy-in-the-real-world-f31a5df1398f
 
 ## Tools 
 - https://privacytools.seas.harvard.edu/differential-privacy
